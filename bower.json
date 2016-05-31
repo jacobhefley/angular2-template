@@ -1,0 +1,17 @@
+{
+  "name": "angular2-skeleton-app",
+  "description": "week2",
+  "main": "",
+  "authors": [
+    "Jacob Hefley <jacobhefley3@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
